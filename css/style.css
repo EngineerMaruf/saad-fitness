@@ -20,4 +20,60 @@ header a{
     background-image: linear-gradient(orange, tomato);
     padding: 10px 30px;
     border-radius: 10px;
+ 
+}
+section{
+    margin-top: 100px;
+}
+.header-left-text{
+    margin-top: 100px;
+}
+.header-left-text h1{
+    font-weight: 700;
+    font-size: 40px;
+}
+.header-left-text a{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 40px;
+    border-radius: 100px;
+    margin-top: 30px;
+    color: white;
+    font-weight: 500;
+
+}
+#top-order-food{
+    margin-top: 80px;
+ 
+}
+
+
+.orange-color-text{
+    color: orange;
+}
+
+.display-flex{
+    display: flex;
+}
+
+.width-50{
+    width: 50%;
+    padding-left: 5%;
+}
+.slider-image img{
+    width: 100%;
+   
+}
+
+.second-section{
+    background-image: url(/images/7.png);
+    background-repeat: no-repeat;
+    display: flex;
+}
+.second-section img{
+    position: relative;
+    padding: 0 30 %;
+}
+.second-section-text{
+    
 }
